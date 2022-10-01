@@ -1,0 +1,2 @@
+com/example/googlemap/BuildConfig.java
+ com.example.googlemap.BuildConfig
